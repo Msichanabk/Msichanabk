@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Msichanabk
 - 👀 I’m interested in learning and collaborating in coding projects
-- 🌱 I’m currently learning HTML,node.js,css,software enginnering course@ALX and Udemy
+- 🌱 I’m currently learning HTML,node.js,css,web development,react.js,mongoose,mongodb on Udemy
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me msichanakemunto@gmail.com
 
